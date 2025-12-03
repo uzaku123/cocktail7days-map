@@ -11,8 +11,6 @@
 
 **Live Demo:** [https://cocktail7days-map.vercel.app](https://cocktail7days-map.vercel.app)
 
-![アプリのスクリーンショット](./screenshots/map-view.png)
-
 ## ✨ 機能
 
 - 📍 **インタラクティブマップ**: 東京の参加バーを地図上で確認
@@ -22,17 +20,6 @@
 - 🎯 **現在地ボタン**: ワンタップで現在地に戻る
 - 💾 **PWA対応**: オフラインでも基本情報を閲覧可能
 - 📱 **レスポンシブデザイン**: スマホ・タブレット・PC対応
-
-## 🖼️ スクリーンショット
-
-### マップ表示
-![マップ表示](./screenshots/map-view.png)
-
-### バー詳細情報
-![バー詳細](./screenshots/bar-popup.png)
-
-### 現在地表示
-
 
 ## 🚀 技術スタック
 

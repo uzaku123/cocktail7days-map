@@ -8,6 +8,7 @@ export interface Location {
 export interface Cocktail {
   id: string;
   name: string;
+  price?: number;
   description: string;
   image_url?: string;
 }

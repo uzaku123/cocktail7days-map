@@ -25,6 +25,7 @@ export interface Bar {
   location: Location;
   participation_years: ParticipationYear[];
   area: string;
+  website?: string; 
   image_url?: string;
   opening_hours?: string;
   phone?: string;
